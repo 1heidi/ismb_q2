@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This site was created during [Make your research FAIRer](https://sib-swiss.github.io/reproducible-analysis-training/) tutorials on July 17/18 2023.
