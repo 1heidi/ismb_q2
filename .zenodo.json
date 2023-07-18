@@ -1,0 +1,17 @@
+{
+  "title": "Test Quart Page",
+  "upload_type": "test",
+  "publication_type": "test",
+  "keywords": [
+    "R",
+    "quarto",
+    "tutorial"
+  ],
+  "creators": [
+    {
+      "name": "Heidi Imker",
+      "affiliation": "UIUC",
+      "orcid": "0000-0003-4748-7453"
+    } 
+  ]
+}
