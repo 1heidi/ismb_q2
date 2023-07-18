@@ -1,11 +1,15 @@
 ---
-title: "ismb_q2"
+title: "Test Quarto Page"
 ---
 
-This is a Quarto website.
+In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Understanding the different columns of the data set
 
-```{r}
-1 + 1
-```
+- Find the top 10 most frequently used baby names in the data for:
+    - girls
+    - boys
+
+-   Plot the yearly trend of the top 10 baby names
+
+![fur baby](https://upload.wikimedia.org/wikipedia/commons/2/2d/Cat-697113_%2824244351371%29.jpg)
